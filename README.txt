@@ -1,11 +1,3 @@
-Name: Peehoo Dewan
-Student ID: 5737-2200-76
-Email: pdewan@usc.edu
-
-
-
-List of Files Submitted:
-
 HW2.java -> contains GUI for the database program
 Populate.java -> contains the program that adds data to the database
 AnnouncementSystemMouseListener.java -> implements mouse click and move events
